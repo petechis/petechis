@@ -24,4 +24,3 @@ Software Solution Architect with over 15 years of experience designing and deliv
 ---
 [![](https://visitcount.itsvg.in/api?id=petechis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
