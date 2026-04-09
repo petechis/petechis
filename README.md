@@ -1,11 +1,9 @@
 # 💫 About Me:
-Software Solution Architect with over 15 years of experience designing and delivering scalable, enterprise-grade systems, with a strong specialization in microservices architecture. Proven track record in translating complex business requirements into robust technical solutions that enhance performance, flexibility, and long-term maintainability.<br><br>Currently transitioning into AI Engineering with a focus on agentic systems and collaborative intelligent architectures, enabling autonomous decision-making and advanced system interactions. Combines deep expertise in backend engineering, distributed systems, and cloud-native technologies with a growing specialization in AI-driven solutions.<br><br>Experienced in building and optimizing Business Intelligence (BI) systems to transform data into actionable insights, supporting strategic decision-making and operational efficiency. Recognized for bridging the gap between business and technology, driving innovation, and delivering measurable value across diverse industries.
+**Software Solution Architect** with over 15 years and of experience designing and delivering scalable, enterprise-grade systems. Proven track record in **translating complex business requirements into robust technical solutions** that enhance performance, flexibility, and long-term maintainability.<br><br>A seasoned **Data Scientist** with > 4 years hands-on-experience and transitioning into **AI Engineering with a focus on agentic systems** as well as collaborative intelligent architectures, enabling autonomous decision-making and advanced system interactions. Combines deep expertise in **backend engineering, distributed systems, and cloud-native technologies** with a growing specialization in AI-driven solutions.<br><br>**Experienced in building and optimizing Business Intelligence (BI) systems** to transform data into actionable insights, supporting strategic decision-making and operational efficiency. Recognized for bridging the gap between business and technology, driving innovation, and delivering measurable value across diverse industries.
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pete.chisamba@outlook.com) 
-
-[English](README) | [German](./translations/DE/README.md) | [Russian](./translations/RU/README.md) | [Shona](./translations/SH/README.md) | [Nyanja](./translations/MW/README.md) | [Swahili](./translations/SW/README.md) | [Ndebele](./translations/ND/README.md) | [Venda](./translations/VE/README.md) | [Zulu](./translations/ZU/README.md)
 
 ## 🧠 Technical Specialisation / Tech-Stack
 
@@ -77,15 +75,6 @@ Software Solution Architect with over 15 years of experience designing and deliv
 ![Midjourney](https://img.shields.io/badge/Midjourney-Image%20Generation-black?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice%20AI-darkgreen?style=for-the-badge)
 
-## Welcome to my interactive career portfolio
-
-This website presents my professional journey, technical expertise, and selected project work across **Data Science, AI, and Software Engineering**.
-
-Designed with clarity, speed, and business focus in mind – the goal is simple:  
-👉 enable recruiters, hiring managers and collaborators to understand my value within minutes.
-
----
-
 **Projects**  
 Hands-on applications including:
 
@@ -97,8 +86,6 @@ Hands-on applications including:
 - Forecasting & time series  
 - Customer automation via AI
 
-Each project links to either a live demo or the source code.
-
 **Skills**  
 Compact overview of capabilities across:
 
@@ -106,12 +93,6 @@ Compact overview of capabilities across:
 - Software Engineering  
 - Business Intelligence  
 - Professional & interpersonal strengths
-
----
-
-## 🛠 Tech Foundation
-
-HTML • CSS • JavaScript • Streamlit • BI Tools • Modern AI Stack
 
 ---
 
